@@ -14,7 +14,7 @@ h1 {
   text-shadow: 0 0 12px #a78;
 }
 
-p {
+.textoRandom {
   line-height: 2;
   text-align: justify;
 }
